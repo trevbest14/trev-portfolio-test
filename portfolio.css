@@ -1,0 +1,18 @@
+h1{
+    color: green;
+    font-style: oblique;
+    text-align: center;
+    background-color: black;
+}
+nav{
+    color: gold;
+    font-style: oblique;
+    background-color:darkgoldenrod;
+    text-align: center;
+}
+html{
+    background-color:darkgreen;
+}
+body{
+    text-align: center;
+}
