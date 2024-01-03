@@ -12,8 +12,7 @@ body{
     text-align: center;
 }
 article{
-    text-orientation: horizontal;
-    text-align: center;
+    
 }
 grid-container{
     display: grid;
